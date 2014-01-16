@@ -1,4 +1,4 @@
-C_Struct_Program_Orne-i
+C_Struct_Program_Ornegi
 =======================
 
 C sınav sorusu örneği struct yapıları
@@ -8,7 +8,9 @@ Merhaba arkadaşlar bugün okulumuz programlama dilleri sınavında sorulan bir 
 Sorumuz :
 
 a- 20 adet öğrenci için Ad-Soyad ve Sınav Notu bilgilerini klavyeden girdiren fonksiyonu yazınız.
+
 b- Bu 20 sınav notu arasından en düşüğü bulan minimumuBul isimli fonksiyonu yazınız.
+
 c- En düşük puana sahip öğrencinin adı, soyadı ve sınav notunu ekranda gösteriniz.
 
 Cevabımız :
